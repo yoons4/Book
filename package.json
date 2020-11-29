@@ -2,10 +2,11 @@
   "name": "Book",
   "version": "0.0.0",
   "private": true,
-  "description": "Five Guys",
+  "description": "Get books",
   "engines": {
     "node": "12.x"
   },
+  "main": "./bin/www",
   "scripts": {
     "start": "node ./bin/www",
     "test": "echo \"No Test set up\" && exit 1"
