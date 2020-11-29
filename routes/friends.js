@@ -25,7 +25,7 @@ router.post('/', (request, response, next) =>{
             }
         }
 
-        if(countSymbol != 4 && countNumber != 13){
+        if(countSymbol != 4 || countNumber != 13){
             HandleError(response, 'Invalid ISBN', 'ISBN is not valid.', 500);
         }
         else{
