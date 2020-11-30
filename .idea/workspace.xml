@@ -79,13 +79,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606465638237</updated>
-      <workItem from="1606465639403" duration="40493000" />
+      <workItem from="1606465639403" duration="45329000" />
     </task>
     <servers />
   </component>
@@ -121,25 +114,25 @@
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="100" y="123" width="1240" height="605" key="DiffContextDialog/0.23.1440.805@0.23.1440.805" timestamp="1606624686783" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1606646486003">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1606652353473">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606621304786" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606652353473" />
     <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1606646486003" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1606646486002">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1606652353471">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606621304783" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606652353471" />
     <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1606646486002" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1606646486001">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1606652353470">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606621304781" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606652353470" />
     <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1606646486001" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1606646486003">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1606652353472">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606621304784" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606652353472" />
     <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1606646486003" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1606476342214">
       <screen x="0" y="0" width="1440" height="900" />
